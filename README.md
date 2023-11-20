@@ -12,3 +12,7 @@ the elements of statistical learning
 
 engineering general intelligence
 
+You Only Look Once: Unified, Real-Time Object Detection
+
+
+https://en.wikipedia.org/wiki/UDP-based_Data_Transfer_Protocol
