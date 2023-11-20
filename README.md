@@ -16,3 +16,10 @@ You Only Look Once: Unified, Real-Time Object Detection
 
 
 https://en.wikipedia.org/wiki/UDP-based_Data_Transfer_Protocol
+
+
+
+Nils M Holm
+Lightweight Compiler Techniques
+https://www.t3x.org/
+
