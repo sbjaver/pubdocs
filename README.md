@@ -8,7 +8,6 @@ how to design programs
 
 statistics for engineers and scientists
 
-
 [the elements of statistical learning](ESLII.pdf)
 
 engineering general intelligence
@@ -22,10 +21,8 @@ Lightweight Compiler Techniques](https://www.t3x.org/)
 
 https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey/
 
-
 [A Comparison of L-Band and C-Band Multipath Propagation at Edwards AFB](https://apps.dtic.mil/sti/citations/ADA549072)
 
 https://people.eecs.berkeley.edu/~culler/cs294-f03/papers/bcast-storm.pdf
 
 [Carrier and Bit Synchronization in Data Communication - A Tutorial Review | IEEE Journals &amp; Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/1094775)
-    
